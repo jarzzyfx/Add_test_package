@@ -1,0 +1,17 @@
+{
+  "name": "@dev_emeka/add_number",
+  "version": "2.0.0",
+  "description": "To add two numbers together",
+  "main": "add.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Add"
+  ],
+  "author": "Dev_emeka",
+  "license": "ISC"
+}
